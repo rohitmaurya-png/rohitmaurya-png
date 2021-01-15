@@ -1,7 +1,7 @@
 ### Hi there 👋
 who i am dose'nt matter what i develop dose
 
-- 🔭 I’m currently working on many projects
+- 🔭 I’m currently working on many projects,Advance project like the extremist,venome os,S.I.D(syber intelligence deterioration),encription has been moved to 2nd repo
 - 🌱 I’m currently learning many things 
 - 👯 I’m looking to collaborate on life
 - 🤔 I’m looking for help with advance assembly
