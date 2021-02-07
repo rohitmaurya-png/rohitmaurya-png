@@ -1,12 +1,17 @@
 ### Hi there 👋
 who i am dose'nt matter what i develop dose
 
-- 🔭 I’m currently working on many projects,Advance project like the extremist,venome os,S.I.D(syber intelligence deterioration),encription has been moved to 2nd repo
+- 🔭 I’m currently working on many projects,Advance project like the extremist,venome os,S.I.D(syber intelligence deterioration),encriptions has been moved to 2nd repo
 - 🌱 I’m currently learning many things 
 - 👯 I’m looking to collaborate on life
 - 🤔 I’m looking for help with advance assembly
-- 💬 Ask me about anything in computers,stocks,networkings,cooking,mountains,vedas,human psychology,quantum tech,ethical hacking,cyber forensic,and feilds i am exploring now 
+- 💬 Feilds well Explored till now:-computers,stocks,networkings,cooking,mountains,vedic srcipture,human psychology,quantum tech,ethical hacking,cyber forensic
 - 📫 How to reach me call
-- 😄 Pronouns: no
-- ⚡ Fun fact: no
+- 😄 last Commercial Project 
+  https://sarikasareesadan.com/  - Retail Store in surat - Intershala - Web developer intern 
+  E-commerce with paymant gateways & API's Integration.
+  http://nstore.nimetler.com/   - Nimetler Technologies Pvt. Ltd - Intershala -PHP developer intern
+  Affliate E-commerce site.
+  
+- ⚡ Fun fact: due to range issue unable to update the repos
 -->
