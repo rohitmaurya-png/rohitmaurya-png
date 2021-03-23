@@ -9,9 +9,8 @@ who i am dose'nt matter what i develop dose
 - 📫 How to reach me call
 - 😄 last Commercial Project 
   https://sarikasareesadan.com/  - Retail Store in surat - Intershala - Web developer intern 
-  E-commerce with paymant gateways & API's Integration.
-  http://nstore.nimetler.com/   - Nimetler Technologies Pvt. Ltd - Intershala -PHP developer intern
-  Affliate E-commerce site.
+  E-commerce with paymant gateways & various API's Integration.
+  
   
 - ⚡ Fun fact: due to range issue unable to update the repos
 -->
